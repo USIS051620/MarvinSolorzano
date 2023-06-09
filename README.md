@@ -1,4 +1,11 @@
-### Hi there 👋
+#Sobre mi 👋
+### Soy un estudiante de la carrera de Ingeniería en Sistemas y Redes Informáticas, de la Universidad Gerardo Barrios, de la facultad de ciencia y tecnología, actualmente cuento con 21 años, me gusta trabajar en equipo, tengo conocimientos en: 
+
+- Bases de datos.
+- Programación.
+- Redes.
+- Ofimática.
+
 
 <!--
 **USIS051620/usis051620** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
