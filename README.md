@@ -1,4 +1,4 @@
-#Sobre mi 👋
+# Hi! I'm Marvin Solórzano👋✨
 ### Soy un estudiante de la carrera de Ingeniería en Sistemas y Redes Informáticas, de la Universidad Gerardo Barrios, de la facultad de ciencia y tecnología, actualmente cuento con 21 años, me gusta trabajar en equipo, tengo conocimientos en: 
 
 - Bases de datos.
