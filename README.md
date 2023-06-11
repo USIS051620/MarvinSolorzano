@@ -6,6 +6,7 @@
 - Redes.
 - Ofimática.
 
+![Gif #1](https://github.com/USIS051620/MarvinSolorzano/assets/68759557/0ec72a13-1474-48aa-8697-c42234980f2f)
 
 <!--
 **USIS051620/usis051620** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
