@@ -45,6 +45,16 @@ let en = {
     "base": "Participation in the conference of the month entitled Security and Integrity of Databases.",
     "carro1": "car competition",
     "carro": "Recognition of first place in the car competition, within the framework of the 19th Latin American Festival of Free Software Installation in 2023.",
-    "lenguaje": "languages used"
+    "lenguaje": "languages used",
+    "bussness": "Entrepreneurial Skills",
+    "bussness-desc": "Throughout my career, I have developed a set of entrepreneurial skills that are fundamental to my work. These skills include:",
+    "adaptability": "Adaptability",
+    "autoconfianza": "Self-Confidence",
+    "pasion": "Passion",
+    "liderazgo": "Leadership",
+    "teamwork": "Teamwork",
+    "responsability": "Responsibility",
+    "empaty": "Empathy",
+    "comunication": "Communication"
   }
   

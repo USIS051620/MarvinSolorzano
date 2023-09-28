@@ -45,6 +45,16 @@ let es = {
     "base": "Participación en la conferencia del mes titulada Seguridad e Integridad de las Bases de Datos.",
     "carro1": "Competencia de carros",
     "carro": "Reconocimiento del primer lugar en la competencia de carros, en el marco del 19° Festival Latinoamericano de Instalación de Software Libre del año 2023.",
-    "lenguaje": "Lenguajes utilizados"
+    "lenguaje": "Lenguajes utilizados",
+    "bussness": "Habilidades Emprendedoras",
+    "bussness-desc": "A lo largo de mi carrera, he desarrollado una serie de habilidades emprendedoras que son fundamentales en mi trabajo. Estas habilidades incluyen:",
+    "adaptability": "Adaptabilidad",
+    "autoconfianza": "Autoconfianza",
+    "pasion": "Pasión",
+    "liderazgo": "Liderazgo",
+    "teamwork": "Trabajo en equipo",
+    "responsability": "Responsabilidad",
+    "empaty": "Empatía",
+    "comunication": "Comunicación"
   };
   

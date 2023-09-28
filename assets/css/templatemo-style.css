@@ -415,6 +415,39 @@ button:hover {
     margin-top: 30px;
 }
 
+/* Habilidades Emprendedoras */
+.my-skills {
+    padding: 10px 0; /* Ajusta el espaciado según sea necesario */
+  }
+  
+  .my-skills .container {
+    text-align: center;
+  }
+  
+  .my-skills h2 {
+    font-size: 36px; /* Cambia el tamaño de fuente según tu preferencia */
+    margin-bottom: 10px;
+  }
+  
+  .entrepreneurial-skills {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .entrepreneurial-skills li {
+    font-size: 18px; /* Cambia el tamaño de fuente según tu preferencia */
+    margin-bottom: 10px;
+    display: block;
+  }
+  
+  /* Estilos de enlace en las habilidades */
+  .entrepreneurial-skills a {
+    text-decoration: none;
+    transition: color 0.3s;
+  }
+  
+  
 
 /* Services */
 
