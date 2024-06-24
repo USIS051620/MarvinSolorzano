@@ -1,6 +1,6 @@
 let es = {
     "title": "Portafolio",
-    "rol": "Desarrollador",
+    "rol": "Desarrollador Front-End",
     "home": "Inicio",
     "about": "Sobre Mí",
     "jobs": "Mis Trabajos",
